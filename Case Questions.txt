@@ -1,0 +1,13 @@
+Preliminary Case Questions – United Grain Growers (UGG)
+ 
+Your analysis must include a response to the following 3 questions:
+ 
+ 
+1.     What role does the “poison pill”defence play in corporate governance? Is it good or bad in case of takeovers from a shareholder perspective? Choose a side and argue for or against.
+2.     Willis Report
+	a.     Create a model for Earnings at Risk (EaR) from scratch, based on your own assumptions. Briefly explain each assumption made. The assessment will be made on the quality of explanations. 
+	b.     Weather Risk – Find the most effective hedging strategy for a $500mn portfolio of 60% corn and 40% wheat using Options, Futures and other liquid derivatives using market prices from December 3rd 2018. Make sure you take logistics into consideration when assessing the risk and the hedging costs. Explain your strategy, hedging costs and locked in profitability. 
+3.     What does 94% variability of earnings explanation mean (page 7 on the case study)? 
+	a.     What are the pitfalls to a model that explains earnings?
+	b.     How could you improve the model to better explain earnings?   
+	c.     Under what conditions would an insurer provide unlimited protection for a crop? 
